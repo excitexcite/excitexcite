@@ -1,7 +1,4 @@
-### Hi there 👋
-My name is Andrew Koltsov. I am a fourth grade student of the Admiral Makarov National University of Shipbuilding. I am studying softwareengeeniring there. 
-I have basic knowledge in C/C++, C#, Java (JDBC, JPA), Adroid (Java), Arduino.
-I am a communicative person, but I appriciate personal space. 
+
 
 <!--
 **excitexcite/excitexcite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
