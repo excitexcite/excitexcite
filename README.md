@@ -6,10 +6,12 @@
 
 <h3 align="left">My latest projects:</h3>
 
+* Womazing: https://excitexcite.github.io/Womazing/
 * Fusely: https://excitexcite.github.io/fusely/
 * Kyda pizza: https://excitexcite.github.io/Kyda-pizza/
 * Amplify: https://excitexcite.github.io/Amplify/
 * Gym me: https://excitexcite.github.io/Gym-me/
+
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
